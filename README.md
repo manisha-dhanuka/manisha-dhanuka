@@ -68,7 +68,6 @@ I'm Manisha Dhanuka, an enthusiastic learner and explorer in the field of data. 
 
 📫 Let's Connect:
 
-📧 Feel free to reach out to me at: [Email](manishadhanuka5135@gmail.com)
-
-💼 Connect with me on LinkedIn: [Manisha Dhanuka](www.linkedin.com/in/manisha-dhanuka)
+* 📧 Feel free to reach out to me at: [Email](manishadhanuka5135@gmail.com)
+* 💼 Connect with me on LinkedIn: [Manisha Dhanuka](www.linkedin.com/in/manisha-dhanuka)
 
