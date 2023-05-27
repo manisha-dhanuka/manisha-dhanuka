@@ -19,12 +19,12 @@ I'm Manisha Dhanuka, a passionate data scientist and data analyst in the making.
 
 🎓 Education:
 
- * 🎓 Bachelors in Computer Science: S.R Government College, Amritsar
- * 🎓 Masters in Mathematics: Guru Nanak Dev University, Amritsar
+ * 🎓 Bachelors in Computer Science
+ * 🎓 Masters in Mathematics
  
 💼 Professional Background:
 
-* 💻 Currently a Data Science Trainee at Alamabetter
+* 💻 Currently a Data Science Trainee at Almabetter
 * 💡 Seeking exciting opportunities in the field of data science and data analysis
 
 🔭 Skills:
