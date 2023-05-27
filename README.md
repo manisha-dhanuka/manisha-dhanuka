@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Manisha Dhanuka, a passionate data scientist and aspiring data analyst. Welcome to my GitHub profile, where I showcase my journey and projects in the fascinating world of data!
+I'm Manisha Dhanuka, an enthusiastic learner and explorer in the field of data. Welcome to my GitHub profile, where I showcase my journey and projects in the fascinating world of data!
 
 🎓 Education:
 
@@ -35,6 +35,20 @@ I'm Manisha Dhanuka, a passionate data scientist and aspiring data analyst. Welc
 * 🗃️ Experience working with SQL databases for data extraction and manipulation
 * 📊 Proficient in Tableau, Power BI, and Looker Studio for interactive data visualization and dashboarding
 * 💡 Strong foundation in mathematics and its applications to data science
+
+🚀 Projects:
+
+* 📁 [Netflix Movie/Tv Shows Clustering](https://github.com/manisha-dhanuka/Recommendation-System):
+  
+  Conducted EDA on Netflix Movie/TV Shows data, revealing content trends across regions, and developed a recommendation model leveraging textual features for personalized suggestions.
+  
+* 📁 [Stock Price Analysis](https://github.com/manisha-dhanuka/Linear-Regression):
+
+  Explored historical stock price data, applied statistical analysis and machine learning techniques to uncover patterns and  correlations, enabling insights into price trends, volatility, and factors influencing stock performance.
+ 
+ * 📁 [Android Apps Authenticity Prediction](https://github.com/manisha-dhanuka/Supervised-Classification):
+ 
+   Developed a classification model using machine learning algorithms to predict the authenticity of Android apps, leveraging various  features and metadata. The model helps identify potentially malicious or fraudulent apps, enhancing app store security and user trust.
 
 💡 Passion:
 
