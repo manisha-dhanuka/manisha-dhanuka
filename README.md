@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Manisha Dhanuka, a passionate data scientist and aspiring data analyst. Welcome to my GitHub profile, where I showcase my journey and projects in the fascinating world of data!
+I'm Manisha Dhanuka, a passionate data scientist and aspiring data analyst. Welcome to my GitHub profile, where I showcase my journey and projects in the fascinating world of data!
 
 🎓 Education:
 
