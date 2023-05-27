@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Manisha Dhanuka, a passionate data scientist and data analyst in the making. Welcome to my GitHub profile!
+Hi there! I'm Manisha Dhanuka, a passionate data scientist and aspiring data analyst. Welcome to my GitHub profile, where I showcase my journey and projects in the fascinating world of data!
 
 🎓 Education:
 
@@ -41,12 +41,6 @@ I'm Manisha Dhanuka, a passionate data scientist and data analyst in the making.
 * 🌟 Fascinated by the power of data and its ability to uncover valuable insights
 * 🔍 Enthusiastic about exploring complex datasets and solving real-world problems through data-driven approaches
 * 📈 Committed to continuously learning and staying updated with the latest trends and advancements in the field
-
-🚀 Projects:
-
-* 📁 Netflix Movie and Tv Shows Clustering: Brief description of the project and its outcomes [Link to repository/notebook]
-* 📁 Stock Price Analysis: Brief description of the project and its outcomes [Link to repository/notebook]
-* 📁 Android Apps Authenticity Prediction: Brief description of the project and its outcomes [Link to repository/notebook]
 
 📚 Certifications:
 
